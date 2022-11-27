@@ -14,7 +14,7 @@ public class Example6 {
 
         System.out.println("Input patronymic: ");
         String patronymic = in.nextLine();
-
         System.out.println("Hello " + surname + " " + name+ " " + patronymic);
+        in.close();
     }
 }
