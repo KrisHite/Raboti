@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class main {
 
     public static void main(String[] args) {
-        String inputFileName = "src/timus_2100/Input.txt";
+        String inputFileName = "src/timus/timus_2100/Input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
         int mAndL = 2;
         try{
